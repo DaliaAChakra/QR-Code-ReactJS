@@ -15,10 +15,6 @@ export default function App() {
         <p>YouTube</p>
       </div>
       <div>
-        <QRCode value="https://www.ndu.edu.lb/" style={{ marginRight: 40 }} />
-        <p>NDU Website</p>
-      </div>
-      <div>
         <QRCode
           value="https://www.netflix.com/lb-en/" style={{ marginRight: 40 }} />
         <p>Netflix</p>
